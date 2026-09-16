@@ -1,0 +1,2 @@
+Model: Multinomial Naive Bayes
+Accuracy: 0.9720
